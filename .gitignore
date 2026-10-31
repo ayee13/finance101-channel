@@ -1,0 +1,6 @@
+build/
+models/
+.venv/
+engine/node_modules/
+.yt_env
+__pycache__/
