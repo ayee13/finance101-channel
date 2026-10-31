@@ -1,0 +1,13 @@
+{
+ "title": "The 'Lazy' Pick That Beats ~9 in 10 Pro Stock Pickers",
+ "summary": "Three friends run a pretend stock-picking contest, and the pick everyone mocks is the one most professional fund managers fail to beat over 20 years. This video explains what an index fund actually is, why buying the whole market works, how a 1% fee can cost about $118,000 over a lifetime, and the catches (crashes, no beating the market, panic selling). Fee figures assume $100 a month from 18 to 65 and a 7% yearly return before fees, an example and not a prediction. Maya, Jordan and Theo are fictional composites.",
+ "sources": [
+  "Active vs index results: S&P Dow Jones Indices, SPIVA U.S. Scorecard Year-End 2025 (published March 2026; ~79% of active large-cap funds trailed the S&P 500 in 2025, ~93% over 20 years): https://www.spglobal.com/spdji/en/spiva/article/spiva-us-year-end-2025/",
+  "Fund fees: Investment Company Institute, Trends in the Expenses and Fees of Funds, 2025 (March 2026; index equity mutual funds 0.05% asset-weighted): https://www.ici.org/news-release/mutual-fund-and-etf-fees-remained-near-historic-lows-in-2025",
+  "Active equity fund fees: Morningstar, U.S. Fund Fee Study 2026 (~0.58% to 0.64% for active U.S. equity funds in 2025, depending on the dataset): https://www.morningstar.com/content/cs-assets/v3/assets/blt9415ea4cc4157833/bltceffe0d68d048b0a/6a076fcbc9bda1fb11c9f0a6/US_Fund_Fee_Study_2026.pdf",
+  "4% of stocks: Hendrik Bessembinder, 'Do Stocks Outperform Treasury Bills?', Journal of Financial Economics, 2018 (U.S. stocks 1926 to 2016): https://doi.org/10.1016/j.jfineco.2018.06.004"
+ ],
+ "tags": ["index funds explained", "what is an index fund", "index funds for beginners", "investing for beginners", "investing at 18", "expense ratio", "active vs passive investing", "stock picking vs index funds", "personal finance for young adults"],
+ "thumbnail": {"line1": "BUY THE", "line2": "HAYSTACK", "char": "maya", "face": "smileLOL", "props": ["🧺", "🌾"], "glow": "green"},
+ "next": "your first paycheck"
+}

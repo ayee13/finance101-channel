@@ -4,7 +4,7 @@ The scheduled run takes the first unchecked topic, makes the episode, and ticks 
 Alan can reorder, add or delete lines any time. Keep each line: `- [ ] Working title | angle`.
 
 - [x] ep001 Compound interest: $12,000 at 18 beats $44,400 at 28 | start the clock early
-- [ ] Index funds explained like you're 18 | why owning "a little of everything" beats stock picking for most beginners
+- [x] ep002 Index funds explained like you're 18 | why owning "a little of everything" beats stock picking for most beginners
 - [ ] Your first paycheck is smaller than you think | gross vs net, withholding, FICA, the W-4
 - [ ] Credit scores decoded | the five factors, how to build one from zero without debt
 - [ ] The emergency fund | why $1,000 then 3 months, where to keep it, high-yield savings
