@@ -3,7 +3,7 @@
 python upload.py <episode dir> <build dir> [--publish-at 2026-11-02T16:00:00Z] [--dry-run]
 Needs env: YT_CLIENT_ID, YT_CLIENT_SECRET, YT_REFRESH_TOKEN (scope youtube.upload).
 Videos go up private. With --publish-at they are scheduled to go public at that time
-(this only works once the Google project has passed YouTube's API audit)."""
+(the same scheduling the clipper project uses)."""
 import os, sys, json, urllib.request, urllib.parse, urllib.error
 
 EP, BUILD = sys.argv[1:3]

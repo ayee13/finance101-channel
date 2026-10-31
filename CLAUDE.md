@@ -23,8 +23,10 @@ A scheduled task runs this on Monday, Wednesday and Friday. Each run starts in a
 8. Upload: `set -a; . ./.yt_env 2>/dev/null; set +a; .venv/bin/python -I engine/upload.py episodes/epNNN build/epNNN`
    The credentials come from the environment (`YT_CLIENT_ID`, `YT_CLIENT_SECRET`, `YT_REFRESH_TOKEN`).
    If they are missing, skip the upload, say so in the summary, and still commit.
-   If `UPLOAD_PUBLISH_HOUR_UTC` is set and the Google project has passed YouTube's audit, add
-   `--publish-at <today>T<hour>:00:00Z` to schedule it public; otherwise it uploads private.
+   Schedule it to go public the same day: add `--publish-at <today, YYYY-MM-DD>T21:00:00Z` (4pm Eastern), the same
+   way the clipper project schedules its uploads. If the run finishes after 20:30 UTC, use 21:00 UTC the next day.
+   The video sits private until then, so Alan can watch it first and delete or fix it. If YouTube reports the video as
+   locked private (unaudited API project), say so in the summary.
 9. Tick the topic in `topics.md` as `- [x] epNNN ...`, then `git add episodes topics.md && git commit` and push to the
    default branch. Never commit `build/`, `models/`, `.venv/` or any credential.
 10. Finish with a short summary: title, duration, YouTube link (or why there is none), and anything Alan should check.
