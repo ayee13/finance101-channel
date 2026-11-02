@@ -1,0 +1,13 @@
+{
+ "title": "Your First Paycheck Is $242 Smaller Than You Think. Here's Why",
+ "summary": "Jordan does the math on his first paycheck ($18 an hour, 80 hours, $1,440), and the deposit says $1,197.69. This video walks through gross vs net pay, every line on a pay stub, what FICA is, how federal withholding and the W-4 work, why a big refund isn't a bonus, and why pre-tax money costs less. The example uses 2026 federal figures for a single filer with one job and no other income, plus a made-up 3% state tax; your own paycheck will differ. Maya and Jordan are fictional composites.",
+ "sources": [
+  "2026 standard deduction ($16,100 single) and brackets (10% to $12,400, 12% to $50,400): IRS Revenue Procedure 2025-32, October 2025: https://www.irs.gov/pub/irs-drop/rp-25-32.pdf",
+  "2026 Social Security wage base ($184,500) and FICA rates (6.2% + 1.45%): Social Security Administration 2026 fact sheet, October 2025: https://www.ssa.gov/news/en/cola/factsheets/2026.html",
+  "Average refund (~$3,276, cumulative through May 8, 2026): IRS 2026 filing season statistics: https://www.irs.gov/newsroom/filing-season-statistics-for-week-ending-may-8-2026",
+  "Tip and overtime deductions (2025 to 2028, with limits): IRS, Working Families Tax Cuts provisions for individuals: https://www.irs.gov/newsroom/working-families-tax-cuts-individuals-and-workers"
+ ],
+ "tags": ["first paycheck", "gross vs net pay", "how to read a pay stub", "what is FICA", "W-4 explained", "tax withholding explained", "why is my paycheck so small", "tax refund explained", "personal finance for young adults", "first job money tips"],
+ "thumbnail": {"line1": "WHERE DID", "line2": "$242 GO?", "char": "jordan", "face": "rage", "props": ["🧾"], "glow": "red"},
+ "next": "credit scores decoded"
+}
