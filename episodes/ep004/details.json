@@ -1,0 +1,17 @@
+{
+ "title": "She Owes $0 and Still Has No Credit Score. Here's Why",
+ "summary": "Maya has never owed anyone a dollar, and the electric company still wants a $300 deposit because she has no credit score. This video explains what a credit score actually measures, the five FICO ingredients (payment history, amounts owed, length of history, new credit, credit mix), utilization, hard vs soft inquiries, how to build a score from zero without paying interest, how to read your reports for free, and why 'carry a balance' is a myth. Deposit and card amounts are made-up examples; the car loan example uses average used-car rates by credit tier from early 2026, and real offers depend on the lender. Maya and Jordan are fictional composites.",
+ "sources": [
+  "FICO score ingredients (35% payment history, 30% amounts owed, 15% length of history, 10% new credit, 10% credit mix): myFICO, What's in your credit score: https://www.myfico.com/credit-education/whats-in-your-credit-score",
+  "FICO minimum scoring requirements (an account open 6+ months, activity reported in the last 6 months): myFICO FAQ: https://www.myfico.com/credit-education/faq/scores/fico-score-requirements",
+  "Average FICO score of 714: FICO Score Credit Insights report, 2026: https://www.businesswire.com/news/home/20260324459421/en/",
+  "Credit invisible estimate (about 7.0 million adults, 2.7%, with no credit record, and 9.8% unscored, December 2020): CFPB technical correction, June 2025: https://files.consumerfinance.gov/f/documents/cfpb_update-credit-invisibles-estimate_2025-06.pdf",
+  "Credit card rate (22.15% on accounts assessed interest, May 2026): Federal Reserve G.19, July 2026 release: https://www.federalreserve.gov/releases/g19/20260708/g19.pdf",
+  "Used-car loan rates by credit tier (prime 8.77%, subprime 19.42%, VantageScore 4.0): Experian State of the Automotive Finance Market, Q1 2026: https://www.experian.com/blogs/ask-experian/used-car-loan-rates/",
+  "Free weekly credit reports made permanent: FTC consumer alert, updated October 2023: https://consumer.ftc.gov/node/298472",
+  "Free credit freezes under federal law since September 21, 2018: FTC press release: https://www.ftc.gov/news-events/news/press-releases/2018/09/starting-today-new-federal-law-allows-consumers-place-free-credit-freezes-yearlong-fraud-alerts"
+ ],
+ "tags": ["credit score explained", "how to build credit from zero", "credit score for beginners", "what is credit utilization", "how credit scores work", "secured credit card explained", "credit score at 18", "FICO score factors", "how to check your credit report for free", "personal finance for young adults"],
+ "thumbnail": {"line1": "NO DEBT.", "line2": "NO SCORE?", "char": "maya", "face": "concerned", "props": ["💳"], "glow": "red"},
+ "next": "the emergency fund"
+}
