@@ -10,6 +10,11 @@ A scheduled task runs this on Monday, Wednesday and Friday. Each run starts in a
 
 1. `./setup.sh` (installs ffmpeg/fonts if missing, Python venv, npm packages, Kokoro voice models; about 3 minutes).
 2. Open `topics.md`. Take the first line with `- [ ]`. The next episode number is the highest `episodes/epNNN` + 1.
+   Top up the queue: if fewer than 10 lines are still `- [ ]`, add 10 new ones at the end in the same format.
+   New topics must fit the audience (late teens, early 20s, starting out), be education not advice, not repeat or
+   closely overlap any line already in the file (checked or not), and mix evergreen basics with timely ones
+   (use web search for what is in season: tax filing Jan to Apr, FAFSA in the fall, holiday spending in Nov and Dec,
+   new contribution limits in January). Never add a topic about a specific stock, coin or company.
 3. Read `episodes/ep001/beats.py` and `episodes/ep001/details.json` fully. They are the style reference.
    Also skim the two most recent episodes so the new one does not repeat their cold open, characters' situation or jokes.
 4. Research the facts you will state. Use web search for anything that changes (rates, limits, tax brackets,
