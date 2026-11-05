@@ -49,6 +49,26 @@ If any step fails twice, stop, commit what you have, and report the failure plai
 - Never recommend a specific stock, coin, fund ticker or company. Explain categories ("a total market index fund").
 - State assumptions on screen and in the description (e.g. "assumed 7% yearly return, not a prediction").
 
+## Titles (the most important line in the episode)
+
+Write 10 candidate titles in a scratch note, score each against the rules, and use the best one. Rules:
+
+- 40 to 55 characters, so it is not cut off on phones. Front-load the hook in the first 4 words.
+- Speak to the viewer ("you", "your") or to their age ("at 18", "in your 20s", "your first job").
+- Use one proven hook, and vary the hook type from the last two episodes:
+  - Mistake or warning: "Stop Paying for This Every Month", "The Paycheck Mistake Almost Every 19-Year-Old Makes"
+  - Curiosity gap: "Why Your First Paycheck Feels Smaller", "Nobody Tells You This About Credit Scores"
+  - Specific number: "$100 a Month at 18 Becomes $439,000", "3 Accounts Everyone Under 25 Should Open"
+  - Contrast: "Broke Friend vs Rich Friend: Same Salary", "Debit Card vs Credit Card: One Builds Your Future"
+  - Insider or secret: "The Money Rule Schools Never Teach", "What Banks Hope You Never Figure Out"
+- Concrete beats abstract: a dollar amount, an age or a time span beats "money tips".
+- Title Case. No ALL-CAPS words except one short emphasis word at most. No emojis, no "#", no "(2026)".
+- Never clickbait the video does not pay off, never promise returns or "get rich", and keep any number
+  identical to the one in the video (YouTube penalizes misleading titles, and this is an education channel).
+- The thumbnail text must add to the title, not repeat it: if the title says the number, the thumbnail says the
+  feeling ("WAIT, WHAT?", "DON'T DO THIS"), and the other way round. Thumbnail lines: 2 to 3 words each.
+- Check the past titles in `episodes/*/details.json` and do not reuse an opening word or phrase from the last 3.
+
 ## beats.py format
 
 Copy the header of `episodes/ep001/beats.py` (VOICE, SAY, CAST, helper functions). Each beat:
@@ -74,7 +94,7 @@ Leave space: two tags side by side need about 700 px between their centres; keep
 ## details.json format
 
 ```json
-{"title": "under 70 characters, curiosity + a number",
+{"title": "see Titles below",
  "summary": "2 to 4 sentences: the hook, what the viewer learns, the assumptions. Ends with 'X and Y are fictional composites.'",
  "sources": ["Source name, date: URL"],
  "tags": ["6 to 10 search phrases"],
