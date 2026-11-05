@@ -7,7 +7,7 @@ Alan can reorder, add or delete lines any time. Keep each line: `- [ ] Working t
 - [x] ep002 Index funds explained like you're 18 | why owning "a little of everything" beats stock picking for most beginners
 - [x] ep003 Your first paycheck is smaller than you think | gross vs net, withholding, FICA, the W-4
 - [x] ep004 Credit scores decoded | the five factors, how to build one from zero without debt
-- [ ] The emergency fund | why $1,000 then 3 months, where to keep it, high-yield savings
+- [x] ep005 The emergency fund | why $1,000 then 3 months, where to keep it, high-yield savings
 - [ ] Roth IRA vs 401(k) at 19 | tax now vs tax later, the employer match is free money
 - [ ] Budgeting that doesn't suck | 50/30/20 vs zero-based vs pay-yourself-first
 - [ ] Student loans before you sign | subsidized vs unsubsidized, interest that starts early, total cost

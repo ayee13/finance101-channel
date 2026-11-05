@@ -1,0 +1,14 @@
+{
+ "title": "A $700 Emergency Can Cost You $999. Here's the Fix",
+ "summary": "Maya and Jordan get the same $700 surprise bill in the same week. Maya pays it from savings; Jordan puts it on a credit card and, paying $25 a month, ends up paying about $999 over 40 months. This video explains the emergency fund: why surprise bills are a when and not an if, a $1,000 starter fund, then 3 to 6 months of essential costs, where the money should live (a separate insured savings account), why it does not belong in the stock market, what counts as an emergency, and the honest cost of keeping cash. The card example assumes the Fed's August 2026 average rate of 22.36% on accounts assessed interest; budgets and bills are made-up examples, savings rates change often, and the 7% investment return is an example, not a prediction. Maya and Jordan are fictional composites.",
+ "sources": [
+  "Credit card rate (22.36% on accounts assessed interest, August 2026): Federal Reserve G.19 Consumer Credit, released October 7, 2026: https://www.federalreserve.gov/releases/g19/current/",
+  "63% of adults would cover a $400 emergency expense with cash or its equivalent: Federal Reserve, Economic Well-Being of U.S. Households in 2025, May 2026: https://www.federalreserve.gov/consumerscommunities/shed.htm",
+  "National average savings rate (0.37%, fall 2026): FDIC National Rates and Rate Caps: https://www.fdic.gov/national-rates-and-rate-caps",
+  "Deposit insurance ($250,000 per depositor, per insured bank, per ownership category): FDIC, Understanding Deposit Insurance: https://www.fdic.gov/resources/deposit-insurance/understanding-deposit-insurance",
+  "High-yield savings rates around 4% APY at some online banks, checked early November 2026; rates change often, so check your bank's current rate"
+ ],
+ "tags": ["emergency fund", "how to build an emergency fund", "how much emergency fund do I need", "emergency fund for beginners", "high yield savings account explained", "where to keep emergency fund", "3 to 6 months expenses", "personal finance for young adults", "money tips in your 20s", "credit card interest explained"],
+ "thumbnail": {"line1": "DON'T SWIPE", "line2": "FOR THIS", "char": "jordan", "face": "fear", "props": ["💳"], "glow": "red"},
+ "next": "Roth IRA vs 401(k) at 19"
+}
