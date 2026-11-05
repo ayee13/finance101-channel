@@ -10,3 +10,5 @@ uploaded through the YouTube Data API. A scheduled Claude session makes one epis
 - `templates/description.txt`: the YouTube description layout
 
 Manual run: `./setup.sh && ./make_episode.sh ep002 && .venv/bin/python -I engine/upload.py episodes/ep002 build/ep002`
+
+Analytics report: `.venv/bin/python -I engine/analytics.py . analytics/report.md` (needs the analytics scopes on the token). Each run reviews it weekly and keeps `learnings.md` up to date.

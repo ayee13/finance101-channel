@@ -15,6 +15,16 @@ A scheduled task runs this on Monday, Wednesday and Friday. Each run starts in a
    closely overlap any line already in the file (checked or not), and mix evergreen basics with timely ones
    (use web search for what is in season: tax filing Jan to Apr, FAFSA in the fall, holiday spending in Nov and Dec,
    new contribution limits in January). Never add a topic about a specific stock, coin or company.
+2b. Learn from the numbers. Read `learnings.md`. If its "Last review" date is 7 or more days ago, run
+   `set -a; . ./.yt_env 2>/dev/null; set +a; mkdir -p analytics; .venv/bin/python -I engine/analytics.py . analytics/<today>.md`
+   If it fails because of the scope, skip this step and say so in the summary. Otherwise compare the episodes:
+   which titles, hooks, thumbnails and topics got more views and a higher average % watched; where retention
+   drops (look at what the script says at that point in `beats.py`); which search terms bring viewers. Rewrite
+   `learnings.md` (at most 40 lines): update "Last review", keep only conclusions with numbers behind them, and
+   end with 3 to 5 concrete rules for the next episodes. Ignore episodes younger than 3 days. With fewer than
+   about 100 views per video the numbers are noise: say so and change little. Add a 2 to 3 line summary of what you
+   learned to the run summary for Alan. Then follow `learnings.md` in every step below; where it conflicts with the
+   style guide, `learnings.md` wins, except the education-not-advice, no-clickbait and free-only rules.
 3. Read `episodes/ep001/beats.py` and `episodes/ep001/details.json` fully. They are the style reference.
    Also skim the two most recent episodes so the new one does not repeat their cold open, characters' situation or jokes.
 4. Research the facts you will state. Use web search for anything that changes (rates, limits, tax brackets,
@@ -32,7 +42,7 @@ A scheduled task runs this on Monday, Wednesday and Friday. Each run starts in a
    way the clipper project schedules its uploads. If the run finishes after 20:30 UTC, use 21:00 UTC the next day.
    The video sits private until then, so Alan can watch it first and delete or fix it. If YouTube reports the video as
    locked private (unaudited API project), say so in the summary.
-9. Tick the topic in `topics.md` as `- [x] epNNN ...`, then `git add episodes topics.md && git commit` and push to the
+9. Tick the topic in `topics.md` as `- [x] epNNN ...`, then `git add episodes topics.md learnings.md analytics && git commit` and push to the
    default branch. Never commit `build/`, `models/`, `.venv/` or any credential.
 10. Finish with a short summary: title, duration, YouTube link (or why there is none), and anything Alan should check.
 
