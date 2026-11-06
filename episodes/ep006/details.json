@@ -1,0 +1,13 @@
+{
+ "title": "Roth IRA vs 401(k) at 19: Tax Now or Tax Later?",
+ "summary": "Jordan writes a zero in his first 401(k) box and turns down about $1,123 a year of employer match; Maya's job has no plan, so she opens a Roth IRA herself. This video explains the difference between Roth and traditional accounts (tax now vs tax later), why 19 is often a low-tax year, the 2026 limits and rules, the Roth escape hatch for contributions, investing the money inside the account, a common order to fill accounts, and the honest catches (tax rates can change, lower returns, vesting). Examples assume $18/hour full time with a 50% match up to 6%, a 7% yearly return (and 5% as a check), 2026 federal tax brackets for a single filer, and figures in future dollars; they are illustrations, not predictions. Maya and Jordan are fictional composites.",
+ "sources": [
+  "2026 401(k) limit $24,500 and IRA limit $7,500; Roth IRA phase-out $153,000 to $168,000 for single filers: IRS news release IR-2025-111, November 2025: https://www.irs.gov/newsroom/401k-limit-increases-to-24500-for-2026-ira-limit-increases-to-7500",
+  "2026 standard deduction $16,100 (single) and brackets (10% up to $12,400, 12% up to $50,400 of taxable income): IRS Rev. Proc. 2025-32, via https://www.irs.gov/newsroom/inflation-adjusted-tax-items-by-tax-year",
+  "Roth IRA contributions and distributions (contributions come out first; qualified distributions; 10% additional tax on early distributions): IRS Publication 590-B: https://www.irs.gov/publications/p590b",
+  "Saver's Match for 2027 contributions (50% match up to $1,000; full match for single filers up to $20,500, none from $35,500): IRS, checked November 6, 2026: https://www.irs.gov/SaversMatch"
+ ],
+ "tags": ["roth ira vs 401k", "roth ira for beginners", "401k match explained", "roth vs traditional", "retirement account at 19", "how a roth ira works", "401k for beginners", "investing in your 20s", "personal finance for young adults", "employer match free money"],
+ "thumbnail": {"line1": "DON'T SKIP", "line2": "FREE MONEY", "char": "jordan", "face": "awe", "props": ["🎁", "💵"], "glow": "green"},
+ "next": "Budgeting that doesn't suck"
+}
