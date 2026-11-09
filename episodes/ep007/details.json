@@ -1,0 +1,11 @@
+{
+ "title": "Your Budget Keeps Failing for One Boring Reason",
+ "summary": "Jordan builds a 40-category budget spreadsheet that dies on day nine, while Maya's three-number sticky note leaves her with savings and pizza money. This video explains why most budgets fail (they are built for an average month that never happens), how sinking funds handle the costs that come yearly but not monthly, three budgeting methods (50/30/20, zero-based and pay yourself first), budgeting fun on purpose, the weekly check-in, and the honest catch: needs often take more than 50% when you are starting out. All prices and budgets are made-up examples based on about $2,400 a month of take-home pay; your numbers will differ. Maya, Jordan and Theo are fictional composites.",
+ "sources": [
+  "Housing as the largest share of household spending (about a third): U.S. Bureau of Labor Statistics, Consumer Expenditures annual release, accessed November 2026: https://www.bls.gov/news.release/cesan.nr0.htm",
+  "Take-home pay example uses 2026 federal figures from episode 3 (standard deduction $16,100; 10% and 12% brackets): IRS, Inflation-adjusted tax items by tax year: https://www.irs.gov/newsroom/inflation-adjusted-tax-items-by-tax-year"
+ ],
+ "tags": ["how to budget", "budgeting for beginners", "50/30/20 rule", "zero based budget", "pay yourself first", "sinking funds explained", "how to make a budget in your 20s", "budget for first job", "personal finance for young adults", "why budgets fail"],
+ "thumbnail": {"line1": "40 CATEGORIES?", "line2": "TRY 3.", "char": "maya", "face": "cheeky", "props": ["🗒️", "✅"], "glow": "green"},
+ "next": "Student loans before you sign"
+}

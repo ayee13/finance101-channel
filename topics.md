@@ -9,7 +9,7 @@ Alan can reorder, add or delete lines any time. Keep each line: `- [ ] Working t
 - [x] ep004 Credit scores decoded | the five factors, how to build one from zero without debt
 - [x] ep005 The emergency fund | why $1,000 then 3 months, where to keep it, high-yield savings
 - [x] ep006 Roth IRA vs 401(k) at 19 | tax now vs tax later, the employer match is free money
-- [ ] Budgeting that doesn't suck | 50/30/20 vs zero-based vs pay-yourself-first
+- [x] ep007 Budgeting that doesn't suck | 50/30/20 vs zero-based vs pay-yourself-first
 - [ ] Student loans before you sign | subsidized vs unsubsidized, interest that starts early, total cost
 - [ ] The real cost of your first car | depreciation, insurance, loan length traps, new vs used
 - [ ] Buy now, pay later | how Klarna-style splits quietly add up
