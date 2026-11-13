@@ -1,0 +1,24 @@
+{
+ "title": "New Car vs Used Car at 20: The $16,000 Difference",
+ "summary": "Leo and Nia are both 20, with the same job and the same pay. Their car payments are only about $140 a month apart, yet after seven years Leo has spent about $16,000 more once you subtract what each car is still worth. This video covers seven things to understand about the real cost of your first car: the out-the-door price, 84-month loans, depreciation and being underwater, insurance for young drivers, the all-in monthly cost, buying used carefully, and keeping a car after it's paid off, plus honesty checks on used-car risks and the 20/4/10 rule. Examples assume a $32,000 new car and a $16,000 four-year-old used car, 8% taxes and fees, Q3 2026 average loan rates (7.0% new, 10.6% used), depreciation of 20% then 15% a year (new) and 10% a year (used), Bankrate's 2026 average full-coverage premium for a 19-year-old, and $220 or $280 a month for gas and upkeep; they are illustrations, not predictions. Leo and Nia are fictional composites.",
+ "sources": [
+  "Average new-vehicle transaction price $51,109 in October 2026: Cox Automotive / Kelley Blue Book, October 2026 ATP report: https://www.coxautoinc.com/insights/oct-2026-atp-report/",
+  "Q3 2026 auto financing (new APR 7.0%, used APR 10.6%, average new payment $787, 25.5% of new loans 84 months or longer): Edmunds press release, October 2026: https://www.edmunds.com/press/new-car-financing-records-pile-up-in-q3-as-buyers-borrow-more-and-stretch-loans-longer-according-to-edmunds.html",
+  "Average cost to own and operate a new vehicle $12,863 a year, depreciation $4,422 a year: AAA Your Driving Costs 2026, September 15, 2026: https://mwg.aaa.com/news/press-release/september-15-2026",
+  "Average full-coverage premium for a 19-year-old ($5,939 a year on their own policy, $4,304 on a parent's policy): Bankrate, checked November 2026: https://www.bankrate.com/insurance/car/19-year-old"
+ ],
+ "tags": [
+  "new car vs used car",
+  "first car buying tips",
+  "how much car can I afford",
+  "84 month car loan",
+  "car depreciation explained",
+  "car insurance for young drivers",
+  "out the door price",
+  "upside down car loan",
+  "20/4/10 rule",
+  "personal finance for young adults"
+ ],
+ "thumbnail": {"line1": "LOW PAYMENT,", "line2": "HIGH PRICE", "char": "leo", "face": "concernedFear", "props": ["🚙", "💸"], "glow": "red"},
+ "next": "Buy now, pay later"
+}

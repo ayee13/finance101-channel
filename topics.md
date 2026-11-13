@@ -11,7 +11,7 @@ Alan can reorder, add or delete lines any time. Keep each line: `- [ ] Working t
 - [x] ep006 Roth IRA vs 401(k) at 19 | tax now vs tax later, the employer match is free money
 - [x] ep007 Budgeting that doesn't suck | 50/30/20 vs zero-based vs pay-yourself-first
 - [x] ep008 Student loans before you sign | subsidized vs unsubsidized, interest that starts early, total cost
-- [ ] The real cost of your first car | depreciation, insurance, loan length traps, new vs used
+- [x] ep009 The real cost of your first car | depreciation, insurance, loan length traps, new vs used
 - [ ] Buy now, pay later | how Klarna-style splits quietly add up
 - [ ] Your first apartment | the 30% rule, deposits, renters insurance, roommates math
 - [ ] Taxes for your first job | brackets myth ("a raise can't lower your pay"), refunds aren't free money
