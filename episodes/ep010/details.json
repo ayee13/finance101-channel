@@ -1,0 +1,16 @@
+{
+ "title": "Why 4 Small Payments Can Eat Half Your Paycheck",
+ "summary": "Zoe, 19, splits five holiday purchases into \"pay in 4\" plans and never pays a cent of interest, yet by January $300 is due every two weeks, half her paycheck. This video covers seven things to understand before you tap buy now, pay later: the two kinds of plans, counting the whole stack, autopay dates and overdraft and late fees, why stores offer it, returns, credit reporting, and saving first, plus an honest comparison with a credit card balance. Examples assume $600 take-home pay every two weeks, $380 of regular costs, a $27 overdraft fee, an $8 late fee, a 30% APR monthly plan and a 22.36% card rate; they are illustrations, not predictions. Zoe and Sam are fictional composites.",
+ "sources": [
+  "Holiday BNPL forecast ($21.3 billion online, Nov 1 to Dec 31, 2026; $1.09 billion on Cyber Monday): Adobe Digital Insights, September 28, 2026: https://news.adobe.com/news/2026/09/adobe-us-holiday-shopping-season-to-hit-record",
+  "47% of BNPL users paid late in the past year (41% in 2025, 34% in 2024); 54% say they couldn't make ends meet without it: LendingTree 2026 Buy Now, Pay Later report: https://www.lendingtree.com/personal/buy-now-pay-later-loan-statistics/",
+  "25% of BNPL users used it for groceries (up from 14% in 2024): LendingTree survey via NBC News, April 2025: https://www.nbcnews.com/business/economy/americans-financing-groceries-buy-now-pay-later-loans-rcna203153",
+  "63% of BNPL borrowers had more than one loan open at once during 2022: CFPB report, January 2025, via Payments Dive: https://www.paymentsdive.com/news/cfpb-buy-now-pay-later-bnpl-use-debt-research-report/737285/",
+  "FICO scores that include BNPL data announced June 23, 2025: Business Wire: https://secure.businesswire.com/news/home/20250623623014/en/FICO-Unveils-Groundbreaking-Credit-Scores-That-Incorporate-Buy-Now-Pay-Later-Data",
+  "Overdraft fees around $25 to $30: Bankrate checking account fees, August 31, 2026: https://www.bankrate.com/banking/checking/checking-account-fees/",
+  "Credit card rate 22.36% on accounts assessed interest, August 2026: Federal Reserve G.19, October 7, 2026: https://www.federalreserve.gov/releases/g19/current/default.htm"
+ ],
+ "tags": ["buy now pay later", "pay in 4", "is buy now pay later bad", "buy now pay later explained", "holiday shopping budget", "overdraft fees", "buy now pay later credit score", "personal finance for young adults", "money tips for 19 year olds"],
+ "thumbnail": {"line1": "NO INTEREST.", "line2": "STILL HURTS.", "char": "zoe", "face": "concernedFear", "props": ["🛍️"], "glow": "red"},
+ "next": "Your first apartment"
+}
