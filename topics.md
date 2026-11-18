@@ -13,7 +13,7 @@ Alan can reorder, add or delete lines any time. Keep each line: `- [ ] Working t
 - [x] ep008 Student loans before you sign | subsidized vs unsubsidized, interest that starts early, total cost
 - [x] ep009 The real cost of your first car | depreciation, insurance, loan length traps, new vs used
 - [x] ep010 Buy now, pay later | how pay-in-4 splits quietly add up
-- [ ] Your first apartment | the 30% rule, deposits, renters insurance, roommates math
+- [x] ep011 Your first apartment | the 30% rule, deposits, renters insurance, roommates math
 - [ ] Taxes for your first job | brackets myth ("a raise can't lower your pay"), refunds aren't free money
 - [ ] Lifestyle creep | why the raise disappears, and the 50% rule for raises
 - [ ] High-yield savings, CDs and T-bills | where cash should actually sit

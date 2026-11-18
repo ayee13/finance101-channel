@@ -1,0 +1,12 @@
+{
+ "title": "Your First Apartment Costs More Than the Rent",
+ "summary": "Eli and Rosa are both 20 and both earn $18.50 an hour. Eli's studio rents for $1,150, but getting the keys takes about $3,100, and his real monthly housing bill eats about half his take-home pay. This video covers seven moves for your first apartment: the 30% rule, the landlord's 3x income test, the real monthly bill, move-in cash, renters insurance, roommate math, and what to read in the lease, plus an honest look at where the 30% rule breaks down. Examples assume $2,600 take-home pay a month, $110 utilities, $60 internet, $14 renters insurance, a one-month deposit, $50 application fee and a 5% renewal increase; they are illustrations, not quotes for your city. Eli and Rosa are fictional composites.",
+ "sources": [
+  "22.7 million cost-burdened renter households in 2024, about half of renters: Harvard Joint Center for Housing Studies, State of the Nation's Housing 2026 (June 17, 2026), via NLIHC: https://nlihc.org/resource/jchss-2026-state-nations-housing-report-finds-cost-burdens-renters-continue-rise-amid",
+  "National median rent $1,388 and first monthly decline of the off-season, September 2026: Apartment List National Rent Report: https://www.apartmentlist.com/research/national-rent-data",
+  "Average renters insurance about $170 a year or $14 a month (Insurance Information Institute): Bankrate, 2026: https://www.bankrate.com/insurance/homeowners-insurance/renters-insurance-cost/"
+ ],
+ "tags": ["first apartment", "how much rent can I afford", "30 percent rule rent", "moving out for the first time", "renters insurance explained", "security deposit", "roommate split rent", "apartment move in costs", "personal finance for young adults"],
+ "thumbnail": {"line1": "RENT: $1,150", "line2": "KEYS: $3,100", "char": "eli", "face": "awe", "props": ["🔑", "🧾"], "glow": "red"},
+ "next": "Taxes for your first job"
+}
